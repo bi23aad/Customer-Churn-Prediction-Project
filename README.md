@@ -1,3 +1,4 @@
+This repository contains the source code of my MSc project on "Comparative Analysis of Machine Learning Algorithm For Customer Churn Prediction.
 Customer Churn Prediction
 This project is focused on predicting customer churn using machine learning algorithms like Stochastic Gradient Boosting (SGB), Support Vector Machine (SVM), and Random Forest. My aim is to identify which algorithm performs best in predicting customer and to optimize their performance through hyperparameter tuning. my project compares the effectiveness of these models on a publicly available telecommunication dataset.
 Inputs
